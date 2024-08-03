@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Feliz
 - 👀 I’m interested in Front-end development and Game Development
-- 🌱 I’m currently learning HTML, CSS & Javascript
+- 🌱 I’m currently learning HTML, CSS & Javascript. Know the basics for now.
 - 💞️ I’m looking to collaborate on ... Not Sure
 - 📫 How to reach me...
 - 😄 Pronouns: ...
